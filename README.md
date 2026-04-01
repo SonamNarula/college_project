@@ -3,60 +3,22 @@
 # 🚀 Trackify — Student Productivity & Placement Tracker
 
 ### Built Different · No BS · Pure Grind Mode
+## 📸 Screenshots
 
 <br/>
-
-<!-- Status Badges -->
-[![🔥 Live Demo](https://img.shields.io/badge/🔥_Live_Demo-trackify.wasmer.app-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://trackify.wasmer.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/SonamNarula/college_project)
-[![GitHub stars](https://img.shields.io/github/stars/SonamNarula/college_project?style=for-the-badge)](https://github.com/SonamNarula/college_project/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/SonamNarula/college_project?style=for-the-badge)](https://github.com/SonamNarula/college_project/network)
-[![GitHub issues](https://img.shields.io/github/issues/SonamNarula/college_project?style=for-the-badge)](https://github.com/SonamNarula/college_project/issues)
-[![GitHub license](https://img.shields.io/github/license/SonamNarula/college_project?style=for-the-badge)](https://github.com/SonamNarula/college_project/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/SonamNarula/college_project?style=for-the-badge)](https://github.com/SonamNarula/college_project/commits/main)
-
-<br/>
-
-<!-- Tech Stack Badges -->
-[![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0.0-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![Chart.js](https://img.shields.io/badge/Chart.js-4.4.0-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
-[![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-0.300.0-000000?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
-[![Sonner](https://img.shields.io/badge/Sonner-1.0.0-F97316?style=for-the-badge&logo=toast&logoColor=white)](https://sonner.emilkowal.ski/)
-
-<br/>
-
-> *"Zero fluff. Every screen pushes you to act. Built for winners who don't make excuses."*
-
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [🔥 What is Trackify?](#-what-is-trackify)
-- [⚡ Key Features](#-key-features)
-- [📸 Screenshots](#-screenshots)
-- [🛠 Tech Stack](#-tech-stack)
-- [🏗️ Architecture](#️-architecture)
-- [🚀 Installation](#-installation)
-- [🎮 Usage](#-usage)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📞 Contact](#-contact)
-
----
-
-## 🔥 What is Trackify?
-
-**The ultimate productivity weapon** for students who refuse to settle. Trackify isn't just another app — it's your personal command center for dominating academics, crushing placements, and building unbreakable habits.
-
-**No distractions. No excuses. Just results.**
-
-- ✅ **Task Management**: Priority-based system with smart categorization
+<div align="center">
+<img src="public/screenshots/ss1.jpeg" width="800"/>
+<img src="public/screenshots/ss2.jpeg" width="800"/>
+<img src="public/screenshots/ss3.jpeg" width="800"/>
+<img src="public/screenshots/ss4.jpeg" width="800"/>
+<img src="public/screenshots/ss5.jpeg" width="800"/>
+<img src="public/screenshots/ss6.jpeg" width="800"/>
+<img src="public/screenshots/ss7.jpeg" width="800"/>
+<img src="public/screenshots/ss8.jpeg" width="800"/>
+<img src="public/screenshots/ss9.jpeg" width="800"/>
+</div>
+</div>
 - 📚 **Study Tracking**: Streak counters, Pomodoro timer, DSA progress logging
 - 💼 **Placement Pipeline**: Full job application tracking with success metrics
 - 📊 **Real-time Analytics**: Visual insights that actually matter
@@ -72,12 +34,12 @@
 
 <div align="center">
 
-| 🚀 **Task Management** | 📚 **Study Tracking** | 💼 **Placement Hub** | 🤖 **AI Insights** |
-|:----------------------:|:---------------------:|:--------------------:|:------------------:|
-| ✅ Priority-based tasks | ⏱️ Daily study logging | 🏢 Application tracking | 🧠 Smart recommendations |
-| 📂 Category organization | 🔥 Streak maintenance | 🔍 Advanced search | 📈 Performance analysis |
-| 📅 Due date management | 📊 Weekly analytics | 📈 Success metrics | 🎯 Goal optimization |
-| 🎉 Completion rewards | 🎯 Pomodoro timer | 🔗 Interview resources | 💡 Actionable tips |
+| 🚀**Task Management** | 📚**Study Tracking** | 💼**Placement Hub** | 🤖**AI Insights** |
+| :-------------------------: | :------------------------: | :-----------------------: | :----------------------: |
+|   ✅ Priority-based tasks   |  ⏱️ Daily study logging  |  🏢 Application tracking  | 🧠 Smart recommendations |
+|  📂 Category organization  |   🔥 Streak maintenance   |    🔍 Advanced search    | 📈 Performance analysis |
+|   📅 Due date management   |    📊 Weekly analytics    |    📈 Success metrics    |   🎯 Goal optimization   |
+|    🎉 Completion rewards    |     🎯 Pomodoro timer     |  🔗 Interview resources  |    💡 Actionable tips    |
 
 </div>
 
@@ -89,10 +51,10 @@
 
 <div align="center">
 
-#### Light Mode
-<img src="public/screenshots/trackify-dashboard.png" alt="Dashboard Light" width="800"/>
+`<img src="public/screenshots/trackify-dashboard.png" alt="Dashboard Light" width="800"/>`
 
-#### Dark Mode
+Dashboard in light mode
+
 <img src="public/screenshots/trackify-dashboard.png" alt="Dashboard Dark" width="800"/>
 
 </div>
@@ -101,25 +63,22 @@
 
 <div align="center">
 
-#### Weekly Progress
+#### Weekly Progress (part of dashboard)
+
 <img src="public/screenshots/trackify-analytics.png" alt="Analytics Light" width="800"/>
 
 #### Analytics Overview
+
 <img src="public/screenshots/trackify-analytics.png" alt="Analytics Section" width="800"/>
 
 </div>
 
-### ✅ Task Manager
+`<img src="public/screenshots/trackify-tasks.png" alt="Task Manager All" width="800"/>`
 
-<div align="center">
-
-#### All Tasks (Dark)
-<img src="public/screenshots/trackify-tasks.png" alt="Task Manager All" width="800"/>
-
-#### Pending Tasks
-<img src="public/screenshots/trackify-tasks.png" alt="Task Manager Pending" width="800"/>
+`<img src="public/screenshots/trackify-tasks.png" alt="Task Manager Pending" width="800"/>`
 
 #### Completed Tasks
+
 <img src="public/screenshots/trackify-tasks.png" alt="Task Manager Completed" width="800"/>
 
 </div>
@@ -129,10 +88,17 @@
 <div align="center">
 
 #### Light Mode
+
+### ✅ Task Manager
+
+<div align="center">
+
+#### All Tasks (Dark)
+
 <img src="public/screenshots/trackify-placement.png" alt="Career Pipeline Light" width="800"/>
 
-#### Dark Mode
-<img src="public/screenshots/trackify-placement.png" alt="Career Pipeline Dark" width="800"/>
+
+`<img src="public/screenshots/trackify-placement.png" alt="Career Pipeline Dark" width="800"/>`
 
 </div>
 
@@ -143,25 +109,30 @@
 <div align="center">
 
 ### **Core Framework**
+
 ![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ### **Styling & UI**
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0.0-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0.0-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-0.300.0-000000?style=flat-square&logo=lucide&logoColor=white)
 
 ### **Data Visualization**
+
 ![Chart.js](https://img.shields.io/badge/Chart.js-4.4.0-FF6384?style=flat-square&logo=chart.js&logoColor=white)
 ![React Chart.js 2](https://img.shields.io/badge/React_Chart.js_2-5.0.0-FF6384?style=flat-square&logo=chart.js&logoColor=white)
 
 ### **Development Tools**
+
 ![ESLint](https://img.shields.io/badge/ESLint-8.0.0-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Canvas Confetti](https://img.shields.io/badge/Canvas_Confetti-1.9.0-F97316?style=flat-square&logo=javascript&logoColor=white)
 ![Sonner](https://img.shields.io/badge/Sonner-1.0.0-F97316?style=flat-square&logo=toast&logoColor=white)
 
 ### **Deployment & Hosting**
+
 ![Wasmer](https://img.shields.io/badge/Wasmer-Deployed-000000?style=flat-square&logo=wasmer&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Ready-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -178,20 +149,20 @@ graph TB
     A[React 18 + TypeScript] --> B[Vite Build System]
     B --> C[Tailwind CSS + Framer Motion]
     C --> D[Component Architecture]
-    
+  
     D --> E[Task Manager]
     D --> F[Study Tracker]
     D --> G[Placement Hub]
     D --> H[AI Insights Engine]
-    
+  
     E --> I[localStorage]
     F --> I
     G --> I
     H --> I
-    
+  
     I --> J[Chart.js Analytics]
     J --> K[Dashboard Visualization]
-    
+  
     L[Wasmer Deployment] --> M[Live Application]
     M --> N[Global Access]
 ```
@@ -205,6 +176,7 @@ graph TB
 ## 🚀 Installation
 
 ### Prerequisites
+
 - **Node.js** 18.18.0 or higher
 - **npm** or **yarn** package manager
 - Modern web browser with JavaScript enabled
@@ -212,39 +184,41 @@ graph TB
 ### Quick Start
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/SonamNarula/college_project.git
    cd trackify
    ```
-
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
-
 3. **Start development server**
+
    ```bash
    npm run dev
    ```
-
 4. **Open your browser**
+
    - Navigate to `http://localhost:5173` (Vite default)
    - Start using Trackify!
 
 ### 📜 Available Scripts
 
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server with hot reload |
-| `npm run build` | Create production build in `dist/` |
-| `npm run preview` | Preview production build locally |
-| `npm run lint` | Run TypeScript type checking |
+| Command             | Description                              |
+| ------------------- | ---------------------------------------- |
+| `npm run dev`     | Start development server with hot reload |
+| `npm run build`   | Create production build in `dist/`     |
+| `npm run preview` | Preview production build locally         |
+| `npm run lint`    | Run TypeScript type checking             |
 
 ---
 
 ## 🎮 Usage
 
 ### Getting Started
+
 1. **Set your theme preference** using the sun/moon toggle in the navbar
 2. **Add your first task** using the task manager
 3. **Log your study session** in the study tracker
@@ -252,6 +226,7 @@ graph TB
 5. **Get AI insights** by clicking "Get Insights" on the dashboard
 
 ### Data Management
+
 - **Export Data**: Download your data as JSON backup
 - **Import Data**: Restore from previous backup
 - **Auto-save**: All data persists automatically in localStorage
@@ -278,6 +253,7 @@ We welcome contributions! Please follow these steps:
 5. **Open a Pull Request**
 
 ### Development Guidelines
+
 - Follow the existing code style
 - Add TypeScript types for new features
 - Test on multiple browsers and devices
@@ -294,12 +270,37 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 Contact
 
 **Sonam Narula**
-- 📧 **Email**: [sonamnarula2108@gmail.com](mailto:sonamnarula2108@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/sonamnarula](https://www.linkedin.com/in/sonam-narula-402a60285/)
-- 🐙 **GitHub**: [@SonamNarula](https://github.com/SonamNarula)
+**Sonam Narula**
+<div align="center">
+   <a href="mailto:sonamnarula2108@gmail.com">
+      <img src="https://img.shields.io/badge/Email-sonamnarula2108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+   </a>
+   <a href="https://www.linkedin.com/in/sonam-narula-402a60285/">
+      <img src="https://img.shields.io/badge/LinkedIn-Sonam_Narula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>
+   <a href="https://codolio.com/profile/0PG2lf5S">
+      <img src="https://img.shields.io/badge/Portfolio-Codolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+   </a>
+   <a href="https://github.com/SonamNarula">
+      <img src="https://img.shields.io/badge/GitHub-@SonamNarula-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+   </a>
+<br/>
+<a href="https://github.com/SonamNarula/college_project/issues">
+   <img src="https://img.shields.io/badge/Bug_Report-Open_Issue-EF4444?style=for-the-badge&logo=github" alt="Bug Report"/>
+</a>
+<a href="https://github.com/SonamNarula/college_project/discussions">
+   <img src="https://img.shields.io/badge/Feature_Request-Start_Discussion-8B5CF6?style=for-the-badge&logo=github" alt="Feature Request"/>
+</a>
+<br/>
+**⭐ If you found Trackify helpful, please star this repository! ⭐**
+
+[⬆️ Back to Top](#-trackify--student-productivity--placement-tracker)
+
+</div>
 - 🌐 **Portfolio**: [codolio.com/profile/0PG2lf5S](https://codolio.com/profile/0PG2lf5S)
 
 ### Support
+
 - 🐛 **Bug Reports**: [Open an Issue](https://github.com/SonamNarula/college_project/issues)
 - 💡 **Feature Requests**: [Create a Discussion](https://github.com/SonamNarula/college_project/discussions)
 
