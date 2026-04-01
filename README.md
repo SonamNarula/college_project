@@ -2,17 +2,22 @@
 
 <div align="center">
 
+<img src="public/screenshots/trackify-dashboard.png" alt="Trackify Dashboard" width="800" style="border-radius: 12px; box-shadow: 0 10px 40px rgba(0,0,0,0.1);"/>
+
 **A premium SaaS-style productivity dashboard for students – built with modern web technologies**
+
+<br />
 
 [![🎯 Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Trackify-6aa7ab?style=for-the-badge&logo=firefox&logoColor=white)](https://trackify.wasmer.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/SonamNarula/college-project)
 [![React](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-4-FF6384?style=for-the-badge&logo=chart.js)](https://www.chartjs.org/)
 
 **🌐 Live Application: [https://trackify.wasmer.app/](https://trackify.wasmer.app/)**
 
-*Try it now – no signup required!*
+*✨ Try it now – no signup required! ✨*
 
 </div>
 
@@ -213,10 +218,6 @@ trackify/
 4. **Track job applications** in the placement tracker
 5. **Get AI insights** by clicking "Get Insights" on the dashboard
 
-### Keyboard Shortcuts
-- `Ctrl/Cmd + K` - Quick add task (when implemented)
-- `Ctrl/Cmd + T` - Toggle theme
-- `Ctrl/Cmd + S` - Save current session
 
 ### Data Management
 - **Export Data**: Download your data as JSON backup
@@ -252,15 +253,46 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📊 Performance & Metrics
+<div align="center">
 
+## 🎯 **Ready to Boost Your Productivity?**
+
+**[🚀 Try Trackify Now](https://trackify.wasmer.app/)**
+
+---
+
+## 🏆 **Why Trackify?**
+
+<div align="center">
+
+| Feature | Benefit | Impact |
+|:-------:|:-------:|:------:|
+| **AI Coach** | Personalized insights | 🎯 **Focused Growth** |
+| **Analytics** | Visual progress tracking | 📈 **Data-Driven** |
+| **Offline-First** | Works without internet | 🌐 **Always Available** |
+| **Beautiful UI** | Premium user experience | ✨ **Motivating** |
+
+</div>
+
+---
+
+## 📈 **Performance & Quality**
+
+<div align="center">
+
+### 🚀 **Technical Excellence**
+- **⚡ Lightning Fast**: Built with Vite for optimal performance
+- **📱 Mobile-First**: Responsive design for all devices
+- **🎨 Premium UI**: Glassmorphism with smooth animations
+- **🔒 Secure**: No external APIs, local data only
+
+### 📊 **Quality Metrics**
 - **Lighthouse Score**: 95+ (Performance, Accessibility, Best Practices, SEO)
 - **Bundle Size**: ~200KB (gzipped)
 - **First Contentful Paint**: <1.5s
 - **Time to Interactive**: <2s
-- **Mobile Responsive**: 100% compatible
 
----
+</div>
 
 ## 🔒 Privacy & Security
 
@@ -290,10 +322,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 Contact & Support
 
 **Sonam Narula**
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [@SonamNarula](https://github.com/SonamNarula)
-- 🌐 Portfolio: [Your Portfolio Website]
+- 📧 **Email**: [sonamnarula2108@gmail.com](mailto:sonamnarula2108@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/sonamnarula](https://www.linkedin.com/in/sonamnarula)
+- 🐙 **GitHub**: [@SonamNarula](https://github.com/SonamNarula)
+- 🌐 **Portfolio**: [codolio.com/profile/0PG2lf5S](https://codolio.com/profile/0PG2lf5S)
 
 ### Support
 - 🐛 **Bug Reports**: [Open an Issue](https://github.com/SonamNarula/college-project/issues)
@@ -304,11 +336,47 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Made with ❤️ by Sonam Narula**
+## 🌟 **Made with ❤️ by Sonam Narula**
 
-⭐ **Star this repo if you found it helpful!**
+**Transforming student productivity, one feature at a time.**
 
-[⬆️ Back to Top](#-trackify--student-productivity--placement-tracker)
+---
+
+### 📞 **Let's Connect!**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sonamnarula2108%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonamnarula2108@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonam_Narula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonamnarula)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Codolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://codolio.com/profile/0PG2lf5S)
+[![GitHub](https://img.shields.io/badge/GitHub-@SonamNarula-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonamNarula)
+
+</div>
+
+---
+
+### 🐛 **Support & Contributions**
+
+<div align="center">
+
+**Found a bug or have a feature request?**
+
+[![Issues](https://img.shields.io/badge/Open_Issue-Trackify-EF4444?style=for-the-badge&logo=github)](https://github.com/SonamNarula/college-project/issues)
+[![Discussions](https://img.shields.io/badge/Start_Discussion-Trackify-8B5CF6?style=for-the-badge&logo=github)](https://github.com/SonamNarula/college-project/discussions)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you found Trackify helpful, please star this repository! ⭐**
+
+[⬆️ **Back to Top**](#-trackify--student-productivity--placement-tracker)
+
+---
+
+**© 2026 Sonam Narula. Built with React, TypeScript, and lots of ❤️**
 
 </div>
 
