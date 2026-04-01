@@ -4,10 +4,18 @@
 
 ### Built Different · No BS · Pure Grind Mode
 
+<div align="center">
+
+# 🚀 Trackify — Student Productivity & Placement Tracker
+
+### Built Different · No BS · Pure Grind Mode
+
+[![🔥 Live Demo](https://img.shields.io/badge/🔥_Live_Demo-trackify.wasmer.app-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://trackify.wasmer.app)
+
+---
+
 ## 📸 Screenshots
 
-<br/>
-</div>
 <div align="center">
 <img src="public/screenshots/ss1.jpeg" width="800"/>
 <img src="public/screenshots/ss2.jpeg" width="800"/>
@@ -19,7 +27,12 @@
 <img src="public/screenshots/ss8.jpeg" width="800"/>
 <img src="public/screenshots/ss9.jpeg" width="800"/>
 </div>
-</div>
+
+---
+
+## ⚡ Features
+
+- ✅ **Task Management**: Priority-based system with smart categorization
 - 📚 **Study Tracking**: Streak counters, Pomodoro timer, DSA progress logging
 - 💼 **Placement Pipeline**: Full job application tracking with success metrics
 - 📊 **Real-time Analytics**: Visual insights that actually matter
@@ -27,33 +40,7 @@
 - 🌙 **Dark/Light Mode**: Looks fire in both themes
 - 📱 **Mobile-First**: Responsive design that works everywhere
 
-
-
-
-![](public/screenshots/ss1.jpeg)
-![](public/screenshots/ss2.jpeg)
-![](public/screenshots/ss3.jpeg)
-![](public/screenshots/ss4.jpeg)
-![](public/screenshots/ss5.jpeg)
-![](public/screenshots/ss6.jpeg)
-![](public/screenshots/ss7.jpeg)
-![](public/screenshots/ss8.jpeg)
-![](public/screenshots/ss9.jpeg)
-
-
-
-- 📚 **Study Tracking**: Streak counters, Pomodoro timer, DSA progress logging
-- 💼 **Placement Pipeline**: Full job application tracking with success metrics
-- 📊 **Real-time Analytics**: Visual insights that actually matter
-- 🤖 **AI Coach**: Rule-based insights that call you out on your BS
-- 🌙 **Dark/Light Mode**: Looks fire in both themes
-- 📱 **Mobile-First**: Responsive design that works everywhere
-
-- 📚 **Study Tracking**: Streak counters, Pomodoro timer, DSA progress logging
-- 💼 **Placement Pipeline**: Full job application tracking with success metrics
-- 📊 **Real-time Analytics**: Visual insights that actually matter
-- 🤖 **AI Coach**: Rule-based insights that call you out on your BS
-- 🌙 **Dark/Light Mode**: Looks fire in both themes
+**Zero login. Zero server. Zero tracking. Just open and execute.**
 - 📱 **Mobile-First**: Responsive design that works everywhere![](public/screenshots/ss1.jpeg)
   ![](public/screenshots/ss2.jpeg)
   ![](public/screenshots/ss3.jpeg)
