@@ -1,13 +1,28 @@
-# Trackify - Khatarnaak Student Productivity & Placement Tracker
+# Trackify — Khatarnaak Student Productivity & Placement Tracker
 
 > One-page ops center for students gunning placements: strict AI coach, ruthless clarity, zero backend excuses.
 
 **Live now:** https://trackify.wasmer.app
 
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript) ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite) ![Chart.js](https://img.shields.io/badge/Chart.js-4-FF6384?logo=chartdotjs)
+
+---
+
+## Table of contents
+1. [Highlights](#highlights-why-it-slaps)
+2. [Screenshots](#screenshots)
+3. [Stack](#stack)
+4. [How the AI coach thinks](#how-the-ai-coach-thinks)
+5. [Run it](#run-it)
+6. [Ship it](#ship-it)
+7. [Project map](#project-map)
+8. [Why it is khatarnaak](#why-it-is-khatarnaak)
+9. [Built by](#built-by)
+
 ---
 
 ## Highlights (why it slaps)
-- AI coach that calls out weak spots from your data (tasks, study logs, streaks).
+- AI coach calls out weak spots from tasks, study logs, and streaks—no sugar-coating.
 - Task pipeline with priorities, filters, toasts, and completion tracking.
 - Study + DSA tracker with streak logic and localStorage persistence.
 - Placement board with color-coded statuses for quick scans.
@@ -20,7 +35,7 @@
 | Dashboard | Analytics |
 | --- | --- |
 | ![Dashboard](public/screenshots/trackify-dashboard.png) | ![Analytics](public/screenshots/trackify-analytics.png) |
-| Tasks and priorities | Placement tracker |
+| Tasks & priorities | Placement tracker |
 | ![Tasks](public/screenshots/trackify-tasks.png) | ![Placements](public/screenshots/trackify-placement.png) |
 
 ---
@@ -34,7 +49,7 @@
 ---
 
 ## How the AI coach thinks
-- File: `src/utils/aiInsights.ts`
+- Location: `src/utils/aiInsights.ts`
 - Rules check pending load, completion %, study intensity, active days, and streak length.
 - Tone is strict and action-first; outputs short, pointed insights. No external API calls.
 
@@ -46,7 +61,9 @@ npm install
 npm run dev    # http://localhost:5173
 ```
 
-### Ship it
+---
+
+## Ship it
 ```bash
 npm run build
 npm run preview
