@@ -3,6 +3,7 @@
 # 🚀 Trackify — Student Productivity & Placement Tracker
 
 ### Built Different · No BS · Pure Grind Mode
+
 ## 📸 Screenshots
 
 <br/>
@@ -19,6 +20,49 @@
 <img src="public/screenshots/ss9.jpeg" width="800"/>
 </div>
 </div>
+- 📚 **Study Tracking**: Streak counters, Pomodoro timer, DSA progress logging
+- 💼 **Placement Pipeline**: Full job application tracking with success metrics
+- 📊 **Real-time Analytics**: Visual insights that actually matter
+- 🤖 **AI Coach**: Rule-based insights that call you out on your BS
+- 🌙 **Dark/Light Mode**: Looks fire in both themes
+- 📱 **Mobile-First**: Responsive design that works everywhere
+
+
+
+
+![](public/screenshots/ss1.jpeg)
+![](public/screenshots/ss2.jpeg)
+![](public/screenshots/ss3.jpeg)
+![](public/screenshots/ss4.jpeg)
+![](public/screenshots/ss5.jpeg)
+![](public/screenshots/ss6.jpeg)
+![](public/screenshots/ss7.jpeg)
+![](public/screenshots/ss8.jpeg)
+![](public/screenshots/ss9.jpeg)
+
+
+
+- 📚 **Study Tracking**: Streak counters, Pomodoro timer, DSA progress logging
+- 💼 **Placement Pipeline**: Full job application tracking with success metrics
+- 📊 **Real-time Analytics**: Visual insights that actually matter
+- 🤖 **AI Coach**: Rule-based insights that call you out on your BS
+- 🌙 **Dark/Light Mode**: Looks fire in both themes
+- 📱 **Mobile-First**: Responsive design that works everywhere
+
+- 📚 **Study Tracking**: Streak counters, Pomodoro timer, DSA progress logging
+- 💼 **Placement Pipeline**: Full job application tracking with success metrics
+- 📊 **Real-time Analytics**: Visual insights that actually matter
+- 🤖 **AI Coach**: Rule-based insights that call you out on your BS
+- 🌙 **Dark/Light Mode**: Looks fire in both themes
+- 📱 **Mobile-First**: Responsive design that works everywhere![](public/screenshots/ss1.jpeg)
+  ![](public/screenshots/ss2.jpeg)
+  ![](public/screenshots/ss3.jpeg)
+  ![](public/screenshots/ss4.jpeg)
+  ![](public/screenshots/ss5.jpeg)
+  ![](public/screenshots/ss6.jpeg)
+  ![](public/screenshots/ss7.jpeg)
+  ![](public/screenshots/ss8.jpeg)
+  ![](public/screenshots/ss9.jpeg)
 - 📚 **Study Tracking**: Streak counters, Pomodoro timer, DSA progress logging
 - 💼 **Placement Pipeline**: Full job application tracking with success metrics
 - 📊 **Real-time Analytics**: Visual insights that actually matter
@@ -45,42 +89,6 @@
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Dashboard
-
-<div align="center">
-
-`<img src="public/screenshots/trackify-dashboard.png" alt="Dashboard Light" width="800"/>`
-
-Dashboard in light mode
-
-<img src="public/screenshots/trackify-dashboard.png" alt="Dashboard Dark" width="800"/>
-
-</div>
-
-### 📊 Analytics
-
-<div align="center">
-
-#### Weekly Progress (part of dashboard)
-
-<img src="public/screenshots/trackify-analytics.png" alt="Analytics Light" width="800"/>
-
-#### Analytics Overview
-
-<img src="public/screenshots/trackify-analytics.png" alt="Analytics Section" width="800"/>
-
-</div>
-
-`<img src="public/screenshots/trackify-tasks.png" alt="Task Manager All" width="800"/>`
-
-`<img src="public/screenshots/trackify-tasks.png" alt="Task Manager Pending" width="800"/>`
-
-#### Completed Tasks
-
-<img src="public/screenshots/trackify-tasks.png" alt="Task Manager Completed" width="800"/>
-
 </div>
 
 ### 💼 Career Pipeline
@@ -89,16 +97,7 @@ Dashboard in light mode
 
 #### Light Mode
 
-### ✅ Task Manager
-
-<div align="center">
-
-#### All Tasks (Dark)
-
-<img src="public/screenshots/trackify-placement.png" alt="Career Pipeline Light" width="800"/>
-
-
-`<img src="public/screenshots/trackify-placement.png" alt="Career Pipeline Dark" width="800"/>`
+### `<div align="center">`
 
 </div>
 
@@ -271,6 +270,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Sonam Narula**
 **Sonam Narula**
+
 <div align="center">
    <a href="mailto:sonamnarula2108@gmail.com">
       <img src="https://img.shields.io/badge/Email-sonamnarula2108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -299,8 +299,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 </div>
 - 🌐 **Portfolio**: [codolio.com/profile/0PG2lf5S](https://codolio.com/profile/0PG2lf5S)
 
-### Support
 
+- 🌐 **Portfolio**: [codolio.com/profile/0PG2lf5S](https://codolio.com/profile/0PG2lf5S)
+
+- 🌐 **Portfolio**: [codolio.com/profile/0PG2lf5S](https://codolio.com/profile/0PG2lf5S)- 🌐 **Portfolio**: [codolio.com/profile/0PG2lf5S](https://codolio.com/profile/0PG2lf5S)### Support
 - 🐛 **Bug Reports**: [Open an Issue](https://github.com/SonamNarula/college_project/issues)
 - 💡 **Feature Requests**: [Create a Discussion](https://github.com/SonamNarula/college_project/discussions)
 
