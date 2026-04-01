@@ -90,10 +90,10 @@
 <div align="center">
 
 #### Light Mode
-<img src="public/screenshots/ss1.png" alt="Dashboard Light" width="800"/>
+<img src="public/screenshots/trackify-dashboard.png" alt="Dashboard Light" width="800"/>
 
 #### Dark Mode
-<img src="public/screenshots/ss4.png" alt="Dashboard Dark" width="800"/>
+<img src="public/screenshots/trackify-dashboard.png" alt="Dashboard Dark" width="800"/>
 
 </div>
 
@@ -102,10 +102,10 @@
 <div align="center">
 
 #### Weekly Progress
-<img src="public/screenshots/ss2.png" alt="Analytics Light" width="800"/>
+<img src="public/screenshots/trackify-analytics.png" alt="Analytics Light" width="800"/>
 
 #### Analytics Overview
-<img src="public/screenshots/ss3.png" alt="Analytics Section" width="800"/>
+<img src="public/screenshots/trackify-analytics.png" alt="Analytics Section" width="800"/>
 
 </div>
 
@@ -114,25 +114,13 @@
 <div align="center">
 
 #### All Tasks (Dark)
-<img src="public/screenshots/ss5.png" alt="Task Manager All" width="800"/>
+<img src="public/screenshots/trackify-tasks.png" alt="Task Manager All" width="800"/>
 
 #### Pending Tasks
-<img src="public/screenshots/ss6.png" alt="Task Manager Pending" width="800"/>
+<img src="public/screenshots/trackify-tasks.png" alt="Task Manager Pending" width="800"/>
 
 #### Completed Tasks
-<img src="public/screenshots/ss7.png" alt="Task Manager Completed" width="800"/>
-
-</div>
-
-### 📚 Study Tracker
-
-<div align="center">
-
-#### Dark Mode
-<img src="public/screenshots/ss8.png" alt="Study Tracker Dark" width="800"/>
-
-#### Light Mode
-<img src="public/screenshots/ss9.png" alt="Study Tracker Light" width="800"/>
+<img src="public/screenshots/trackify-tasks.png" alt="Task Manager Completed" width="800"/>
 
 </div>
 
@@ -141,10 +129,10 @@
 <div align="center">
 
 #### Light Mode
-<img src="public/screenshots/ss10.png" alt="Career Pipeline Light" width="800"/>
+<img src="public/screenshots/trackify-placement.png" alt="Career Pipeline Light" width="800"/>
 
 #### Dark Mode
-<img src="public/screenshots/ss11.png" alt="Career Pipeline Dark" width="800"/>
+<img src="public/screenshots/trackify-placement.png" alt="Career Pipeline Dark" width="800"/>
 
 </div>
 
