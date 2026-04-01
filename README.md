@@ -4,13 +4,15 @@
 
 **A premium SaaS-style productivity dashboard for students – built with modern web technologies**
 
-[![Live Demo](https://img.shields.io/badge/🎯_LIVE_DEMO-Trackify-6aa7ab?style=for-the-badge&logo=firefox&logoColor=white)](https://trackify.wasmer.app/)
+[![🎯 Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Trackify-6aa7ab?style=for-the-badge&logo=firefox&logoColor=white)](https://trackify.wasmer.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/SonamNarula/college-project)
 [![React](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 
-**Live Demo: [https://trackify.wasmer.app/](https://trackify.wasmer.app/)**
+**🌐 Live Application: [https://trackify.wasmer.app/](https://trackify.wasmer.app/)**
+
+*Try it now – no signup required!*
 
 </div>
 
@@ -79,17 +81,32 @@
 
 Experience Trackify in action: **[https://trackify.wasmer.app/](https://trackify.wasmer.app/)**
 
-### 📸 Screenshots
+**✨ What you can try:**
+- Add tasks with different priorities and categories
+- Log study hours and DSA questions
+- Track placement applications
+- Switch between light/dark themes
+- Get personalized AI insights
+- View analytics charts
+- Export/import your data
+
+### 📸 Application Screenshots
 
 <div align="center">
 
-| Dashboard | Task Manager | Study Tracker |
-|:---------:|:------------:|:-------------:|
-| ![Dashboard](public/screenshots/trackify-dashboard.png) | ![Tasks](public/screenshots/trackify-tasks.png) | ![Study](public/screenshots/trackify-analytics.png) |
+#### 🏠 Dashboard - Your Productivity Hub
+<img src="public/screenshots/trackify-dashboard.png" alt="Trackify Dashboard" width="800"/>
 
-| Analytics | Placement Tracker | AI Insights |
-|:---------:|:-----------------:|:-----------:|
-| ![Analytics](public/screenshots/trackify-analytics.png) | ![Placements](public/screenshots/trackify-placement.png) | ![AI](public/screenshots/trackify-dashboard.png) |
+#### ✅ Task Management - Stay Organized
+<img src="public/screenshots/trackify-tasks.png" alt="Task Manager" width="800"/>
+
+#### 📊 Analytics - Track Your Progress
+<img src="public/screenshots/trackify-analytics.png" alt="Analytics Dashboard" width="800"/>
+
+#### 💼 Placement Tracker - Career Pipeline
+<img src="public/screenshots/trackify-placement.png" alt="Placement Tracker" width="800"/>
+
+*All screenshots captured from the live application*
 
 </div>
 
