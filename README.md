@@ -1,204 +1,253 @@
-# 🚀 Trackify – Student Productivity & Placement Tracker
-
 <div align="center">
 
-<img src="public/screenshots/trackify-dashboard.png" alt="Trackify Dashboard" width="800" style="border-radius: 12px; box-shadow: 0 10px 40px rgba(0,0,0,0.1);"/>
+# 🚀 Trackify — Student Suite
 
-**A premium SaaS-style productivity dashboard for students – built with modern web technologies**
+### Built Different · No BS · Pure Grind Mode
 
-<br />
+<br/>
 
-<!-- Tech Stack Badges -->
-[![🎯 Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Trackify-6aa7ab?style=for-the-badge&logo=firefox&logoColor=white)](https://trackify.wasmer.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/SonamNarula/college-project)
+[![🔥 LIVE NOW](https://img.shields.io/badge/🔥_LIVE_NOW-trackify.wasmer.app-6aa7ab?style=for-the-badge&logoColor=white)](https://trackify.wasmer.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-SonamNarula-181717?style=for-the-badge&logo=github)](https://github.com/SonamNarula/college-project)
 
-<br />
+<br/>
 
-<!-- Core Technologies -->
-[![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React_18-61dafb?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite_5-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 
-<br />
+<br/>
 
-<!-- Additional Technologies -->
-[![Chart.js](https://img.shields.io/badge/Chart.js-4.4.0-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0.0-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-0.300.0-000000?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
-[![Sonner](https://img.shields.io/badge/Sonner-1.0.0-F97316?style=for-the-badge&logo=toast&logoColor=white)](https://sonner.emilkowal.ski/)
-
-<br />
-
-<!-- Build & Deploy -->
-[![ESLint](https://img.shields.io/badge/ESLint-8.0.0-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
-[![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Wasmer](https://img.shields.io/badge/Wasmer-Hosted-000000?style=for-the-badge&logo=wasmer&logoColor=white)](https://wasmer.io/)
-
-**🌐 Live Application: [https://trackify.wasmer.app/](https://trackify.wasmer.app/)**
-
-*✨ Try it now – no signup required! ✨*
+> *"Zero fluff. Every screen pushes you to act. Built for winners who don't make excuses."*
 
 </div>
 
 ---
 
-## 🌟 Overview
+## 🔥 What is Trackify?
 
-**Trackify** is a comprehensive student productivity platform that combines task management, study tracking, placement preparation, and AI-powered insights into a single, beautiful dashboard. Designed with a premium SaaS aesthetic, it helps students maintain consistency, track progress, and achieve their academic and career goals.
+**The ultimate productivity weapon** for students who refuse to settle. Trackify isn't just another app — it's your personal command center for dominating academics, crushing placements, and building unbreakable habits.
 
-### ✨ Key Highlights
-- 🎨 **Premium UI/UX** - Glassmorphism design with smooth animations
-- 🤖 **AI Productivity Coach** - Personalized insights without external APIs
-- 📊 **Advanced Analytics** - Interactive charts and progress tracking
-- 🌙 **Dual Theme System** - Light/Dark mode with persistence
-- 📱 **Fully Responsive** - Mobile-first design for all devices
-- ⚡ **Lightning Fast** - Built with Vite for optimal performance
-- 💾 **Offline Ready** - localStorage persistence for all data
+**No distractions. No excuses. Just results.**
+
+- ✅ **Task Management**: Priority-based system with smart categorization
+- 📚 **Study Tracking**: Streak counters, Pomodoro timer, DSA progress logging
+- 💼 **Placement Pipeline**: Full job application tracking with success metrics
+- 📊 **Real-time Analytics**: Visual insights that actually matter
+- 🤖 **AI Coach**: Rule-based insights that call you out on your BS
+- 🌙 **Dark/Light Mode**: Looks fire in both themes
+- 📱 **Mobile-First**: Responsive design that works everywhere
+
+**Zero login. Zero server. Zero tracking. Just open and execute.**
 
 ---
 
-## 🎯 Core Features
+## 📸 Screenshots
+
+### 🏠 Dashboard — Light Mode
+
+![Dashboard Light](screenshots/ss1.png)
+
+### 🌙 Dashboard — Dark Mode
+
+![Dashboard Dark](screenshots/ss4.png)
+
+### 📊 Analytics & Weekly Progress
+
+![Analytics Light](screenshots/ss2.png)
+
+![Analytics Section](screenshots/ss3.png)
+
+### ✅ Task Manager — Dark Mode (All Tasks)
+
+![Task Manager All](screenshots/ss5.png)
+
+### ✅ Task Manager — Pending & Completed Views
+
+![Task Manager Pending](screenshots/ss6.png)
+
+![Task Manager Completed](screenshots/ss7.png)
+
+### 📚 Study Tracker — Dark & Light
+
+![Study Tracker Dark](screenshots/ss8.png)
+
+![Study Tracker Light](screenshots/ss9.png)
+
+### 💼 Career Pipeline — Light & Dark
+
+![Career Pipeline Light](screenshots/ss10.png)
+
+![Career Pipeline Dark](screenshots/ss11.png)
+
+---
+
+## ⚡ Features That Actually Matter
+
+### 🏠 Dashboard
+**Your war room.** Instant overview: current streak, next deadline, study hours, DSA solved, tasks completed, goal progress. No scrolling, no nonsense.
+
+**AI Productivity Coach** analyzes your data and delivers **brutal, action-oriented insights**. No sugarcoating. No API costs. Pure logic that pushes you harder.
+
+### ✅ Task Manager
+**Get shit done.** Priority levels (Low/Medium/High), categories (Academic/Career/Health), due dates, satisfying strikethroughs. Filter by status. Built for execution.
+
+### 📚 Study Tracker
+**Consistency killer.** Log hours + DSA problems daily. Streak counter keeps you accountable. **Pomodoro Timer** with Focus/Short Break/Long Break. Activity feed so you remember your wins.
+
+### 💼 Career Pipeline
+**Placement domination.** Track every application: company, role, status (Applied → Selected/Rejected), dates. Search functionality. Live success rate. Know your edge.
+
+### 📊 Analytics
+**Data-driven grind.** Weekly study charts, task completion bars, DSA averages, upcoming deadlines. All local, all instant. Make informed decisions.
+
+---
+
+## 🛠 Tech Stack (Battle-Tested)
+
+| Layer | Tech | Why? |
+|-------|------|------|
+| Framework | React 18 + TypeScript 5 | Modern, type-safe, scalable |
+| Build | Vite 5 | Lightning-fast dev & builds |
+| Styling | Tailwind CSS 4 + Framer Motion 11 | Beautiful, animated, responsive |
+| Charts | Chart.js 4 + React Chart.js 2 | Powerful data visualization |
+| Icons | Lucide React | Clean, consistent iconography |
+| Notifications | Sonner | Sleek toast notifications |
+| Confetti | Canvas Confetti | Celebration effects |
+| Storage | localStorage | Offline-first, no server needed |
+| Deploy | Wasmer / Vercel | Global CDN, instant deploys |
+
+---
+
+## 🚀 Run Locally (Get Started in 60 Seconds)
+
+```bash
+git clone https://github.com/SonamNarula/college-project.git
+cd trackify
+npm install
+npm run dev
+# → http://localhost:5173
+```
+
+**Pro Commands:**
+
+```bash
+npm run dev       # Hot-reload dev server
+npm run build     # Production build → dist/
+npm run preview   # Test production build
+npm run lint      # TypeScript checks
+```
+
+---
+
+## 🗂 Project Structure (Clean Architecture)
+
+```
+src/
+├── App.tsx                  # Root component & global state
+├── components/              # Reusable UI: Sidebar, Header, Cards, Toasts
+├── pages/
+│   ├── Dashboard.tsx        # Main command center
+│   ├── TaskManager.tsx      # CRUD operations + filters
+│   ├── StudyTracker.tsx     # Logging + Pomodoro timer
+│   ├── PlacementTracker.tsx # Job pipeline management
+│   └── Analytics.tsx        # Charts & insights
+├── utils/
+│   └── aiInsights.ts        # AI coach logic (no external deps)
+├── hooks/
+│   └── useLocalStorage.ts   # Persistent state management
+└── styles/
+    └── global.css           # Themes, animations, layouts
+```
+
+---
+
+## 🧠 AI Coach Engine (No Bullshit AI)
+
+**No GPT. No API. No costs. Just smart logic.**
+
+`src/utils/aiInsights.ts` runs a **rule-based engine** on your local data:
+- Analyzes pending tasks vs. completion rates
+- Compares study intensity to your targets
+- Tracks active days and streak performance
+- Delivers **short, brutal, action-first advice**
+
+**Tone:** Like a drill sergeant who cares about your success.
+
+---
+
+## 🔒 Privacy First (Your Data, Your Rules)
+
+- 🚫 Zero external APIs
+- 🚫 Zero server storage
+- 🚫 Zero tracking pixels
+- 💾 All data in browser `localStorage`
+- 📤 Export/Import JSON backups anytime
+- 🗑️ Delete everything with one click
+
+**You own your data. Period.**
+
+---
+
+## 📦 Data Management (Backup & Restore)
+
+**Export:** Download JSON snapshot of all data.  
+**Import:** Restore from any backup file.  
+**Auto-save:** Everything persists automatically — no manual saves.
+
+---
+
+## 🤝 Contributing (Let's Build Together)
+
+```bash
+git checkout -b feature/your-awesome-feature
+git commit -m "feat: add your killer feature"
+git push origin feature/your-awesome-feature
+# → Open PR
+```
+
+**Rules:** Follow TypeScript standards. Test on mobile. Keep it clean.
+
+---
+
+## 📄 License
+
+MIT — Use it, modify it, build on it. Just keep the credits.
+
+---
 
 <div align="center">
 
-| 🚀 **Task Management** | 📚 **Study Tracking** | 💼 **Placement Hub** | 🤖 **AI Insights** |
-|:----------------------:|:---------------------:|:--------------------:|:------------------:|
-| ✅ Priority-based tasks | ⏱️ Daily study logging | 🏢 Application tracking | 🧠 Smart recommendations |
-| 📂 Category organization | 🔥 Streak maintenance | 🔍 Advanced search | 📈 Performance analysis |
-| 📅 Due date management | 📊 Weekly analytics | 📈 Success metrics | 🎯 Goal optimization |
-| 🎉 Completion rewards | 🎯 Pomodoro timer | 🔗 Interview resources | 💡 Actionable tips |
+## 🏆 Built by
 
-</div>
+**Sonam Narula**  
+JECRC University, Jaipur  
+*Turning coffee into code since 2023*
 
----
+[![Email](https://img.shields.io/badge/Email-sonamnarula2108%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonamnarula2108@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonam_Narula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonam-narula-402a60285/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Codolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://codolio.com/profile/0PG2lf5S)
+[![GitHub](https://img.shields.io/badge/GitHub-@SonamNarula-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonamNarula)
 
-## 🔥 Advanced Features
+<br/>
 
-<div align="center">
+[![Issues](https://img.shields.io/badge/Bug_Report-Open_Issue-EF4444?style=for-the-badge&logo=github)](https://github.com/SonamNarula/college-project/issues)
+[![Discussions](https://img.shields.io/badge/Feature_Request-Start_Discussion-8B5CF6?style=for-the-badge&logo=github)](https://github.com/SonamNarula/college-project/discussions)
 
-### **🎨 Design System**
-- **Glassmorphism UI** with backdrop blur effects
-- **Smooth animations** powered by Framer Motion
-- **Dual theme system** (Light/Dark) with persistence
-- **Responsive grid layouts** for all screen sizes
-- **Custom color palette** with accent gradients
-
-### **⚡ Performance & UX**
-- **Lightning-fast loading** with Vite bundler
-- **Offline-first architecture** using localStorage
-- **Real-time data persistence** with auto-save
-- **Toast notifications** for user feedback
-- **Keyboard navigation** support
-
-### **📊 Analytics Dashboard**
-- **Interactive charts** with Chart.js integration
-- **Weekly progress tracking** with trend analysis
-- **Task completion metrics** and productivity scores
-- **Placement success rates** and conversion analytics
-- **Study streak visualization** with achievement badges
-
-</div>
+<br/>
 
 ---
 
-## 🚀 Live Demo
+**⭐ If Trackify changed your game, star the repo. It costs nothing but means everything.**
 
-Experience Trackify in action: **[https://trackify.wasmer.app/](https://trackify.wasmer.app/)**
+*© 2026 Sonam Narula · MIT License · Built with React, TypeScript, and unrelenting focus*
 
-**✨ What you can try:**
-- Add tasks with different priorities and categories
-- Log study hours and DSA questions
-- Track placement applications
-- Switch between light/dark themes
-- Get personalized AI insights
-- View analytics charts
-- Export/import your data
-
-### 📸 Application Screenshots
-
-<div align="center">
-
-#### 🏠 Dashboard - Your Productivity Hub
-<img src="public/screenshots/trackify-dashboard.png" alt="Trackify Dashboard" width="800"/>
-
-#### ✅ Task Management - Stay Organized
-<img src="public/screenshots/trackify-tasks.png" alt="Task Manager" width="800"/>
-
-#### 📊 Analytics - Track Your Progress
-<img src="public/screenshots/trackify-analytics.png" alt="Analytics Dashboard" width="800"/>
-
-#### 💼 Placement Tracker - Career Pipeline
-<img src="public/screenshots/trackify-placement.png" alt="Placement Tracker" width="800"/>
-
-*All screenshots captured from the live application*
+[⬆️ Back to Top](#-trackify)
 
 </div>
 
----
-
-## 🛠 Tech Stack & Architecture
-
-<div align="center">
-
-### **Core Framework**
-![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### **Styling & UI**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0.0-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0.0-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-0.300.0-000000?style=flat-square&logo=lucide&logoColor=white)
-
-### **Data Visualization**
-![Chart.js](https://img.shields.io/badge/Chart.js-4.4.0-FF6384?style=flat-square&logo=chart.js&logoColor=white)
-![React Chart.js 2](https://img.shields.io/badge/React_Chart.js_2-5.0.0-FF6384?style=flat-square&logo=chart.js&logoColor=white)
-
-### **Development Tools**
-![ESLint](https://img.shields.io/badge/ESLint-8.0.0-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Canvas Confetti](https://img.shields.io/badge/Canvas_Confetti-1.9.0-F97316?style=flat-square&logo=javascript&logoColor=white)
-![Sonner](https://img.shields.io/badge/Sonner-1.0.0-F97316?style=flat-square&logo=toast&logoColor=white)
-
-### **Deployment & Hosting**
-![Wasmer](https://img.shields.io/badge/Wasmer-Deployed-000000?style=flat-square&logo=wasmer&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-Ready-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Core Features
-
-<div align="center">
-
-| 🚀 **Task Management** | 📚 **Study Tracking** | 💼 **Placement Hub** | 🤖 **AI Insights** |
-|:----------------------:|:---------------------:|:--------------------:|:------------------:|
-| ✅ Priority-based tasks | ⏱️ Daily study logging | 🏢 Application tracking | 🧠 Smart recommendations |
-| 📂 Category organization | 🔥 Streak maintenance | 🔍 Advanced search | 📈 Performance analysis |
-| 📅 Due date management | 📊 Weekly analytics | 📈 Success metrics | 🎯 Goal optimization |
-| 🎉 Completion rewards | 🎯 Pomodoro timer | 🔗 Interview resources | 💡 Actionable tips |
-
-</div>
-
----
-
-## 📦 Installation & Setup
-
-### Prerequisites
-- **Node.js** 18.18.0 or higher
-- **npm** or **yarn** package manager
-- Modern web browser with JavaScript enabled
-
-### 🚀 Quick Start
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/SonamNarula/college-project.git
-   cd trackify
-   ```
-
-2. **Install dependencies**
    ```bash
    npm install
    ```
