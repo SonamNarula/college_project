@@ -107,6 +107,15 @@ src/
 
 ---
 
+## Docs (report + synopsis)
+
+- `docs/Trackify_Report.md` is the index for the full academic report (dated 2026-04-02) and points to Parts 1–6 for printing/merging.
+- Individual parts (`docs/Trackify_Report_Part1_...md` → `Part6`) are split for easier editing and PDF export; total length targets 50–70 pages with 12pt/1.5 spacing.
+- `docs/Trackify_Synopsis.md` contains the abstract, objectives, scope, and system overview for quick submissions.
+- Open any Markdown file in your editor/viewer and export to PDF when needed; no external assets or build steps are required.
+
+---
+
 ## Connect
 
 - [![Live Demo](https://img.shields.io/badge/Live_Demo-trackify.wasmer.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2937)](https://trackify.wasmer.app)
