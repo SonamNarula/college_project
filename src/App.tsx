@@ -14,6 +14,9 @@ import Analytics from './pages/Analytics';
 import { useLocalStorage } from './hooks/useLocalStorage';
 import { Task, StudyLog, PlacementApp, PlacementStatus, Priority, Page, Toast } from './types';
 
+import { AuthProvider } from './context/AuthContext';
+import ProtectedRoute from './components/ProtectedRoute';
+
 const genId = () => Math.random().toString(36).slice(2, 10);
 
 function App() {
@@ -191,24 +194,28 @@ function App() {
   };
 
   return (
-    <div className="app-shell">
-      <Sidebar
-        currentPage={page}
-        onNavigate={setPage}
-        isOpen={sidebarOpen}
-        onClose={() => setSidebarOpen(false)}
-      />
-      <div className="main-content">
-        <Header
-          currentPage={page}
-          isDark={isDark}
-          onThemeToggle={toggleTheme}
-          onMenuToggle={() => setSidebarOpen((o) => !o)}
-        />
-        <div className="page-container">{renderPage()}</div>
-      </div>
-      <ToastContainer toasts={toasts} onRemove={removeToast} />
-    </div>
+    <AuthProvider>
+      <ProtectedRoute>
+        <div className="app-shell">
+          <Sidebar
+            currentPage={page}
+            onNavigate={setPage}
+            isOpen={sidebarOpen}
+            onClose={() => setSidebarOpen(false)}
+          />
+          <div className="main-content">
+            <Header
+              currentPage={page}
+              isDark={isDark}
+              onThemeToggle={toggleTheme}
+              onMenuToggle={() => setSidebarOpen((o) => !o)}
+            />
+            <div className="page-container">{renderPage()}</div>
+          </div>
+          <ToastContainer toasts={toasts} onRemove={removeToast} />
+        </div>
+      </ProtectedRoute>
+    </AuthProvider>
   );
 }
 

@@ -29,7 +29,16 @@
   --gradient: linear-gradient(135deg, var(--accent-3), var(--accent-5));
   --gradient-card: linear-gradient(135deg, rgba(159,196,199,0.15), rgba(106,167,171,0.08));
 }
-
+/* ===== LOGIN PAGE ===== */
+.login-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg-primary);
+  padding: 1rem;
+}
+/* ... baaki saara CSS jo maine upar diya tha */
 [data-theme="dark"] {
   --bg: #0b1220;
   --bg-secondary: #0f1929;
