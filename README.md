@@ -1,4 +1,4 @@
-# Trackify — Student Productivity & Placement Tracker
+# Trackify — A Student Productivity & Placement Tracker
 
 **Built Different · No BS · Pure Grind Mode**
 
